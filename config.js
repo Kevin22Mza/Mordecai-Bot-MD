@@ -94,7 +94,7 @@ global.channel = 'https://whatsapp.com/channel/0029Vb2YQcW1t90dSKG8ac2U'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb2YQcW1t90dSKG8ac2U'
 global.md = 'https://github.com/Kevin22Mza/Mordecai-Bot-MD'
 global.correo = 'kevincordoba223322@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w';
+global.cn ='https://whatsapp.com/channel/0029Vb2YQcW1t90dSKG8ac2U';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
