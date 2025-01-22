@@ -9,9 +9,9 @@ let handler = async (m, { conn, args }) => {
 ⚜️ *Versión:* ${vs}
 📚 *Libreria:* ${libreria} ${baileys}
 
-🪐 *Creador:*
+👑 *Creador:*
 
-☁️ ৎ୭࠭͢𓆩Ҡҽѵìղلʂ𓆪͟͞ '
+👑 ৎ୭࠭͢𓆩Ҡҽѵìղلʂ𓆪͟͞ '
 🔖 *Rol:* Creador
 👾 *GitHub:* https://github.com/Kevin22Mza  
 
