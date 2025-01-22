@@ -39,8 +39,8 @@ global.listo = '🍬 *Aquí Tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
 
 //Ids channel
-global.idchannel = '120363323286489957@newsletter'
-global.canalIdM = ["120363323286489957@newsletter", "120363323286489957@newsletter"]
+global.idchannel = '120363372222484415@newsletter'
+global.canalIdM = ["120363372222484415@newsletter", "120363372222484415@newsletter"]
 global.canalNombreM = ["𖤓⏤͟͟͞͞【𝙈𝙤𝙧𝙙𝙚𝙘𝙖𝙞-𝘽𝙤𝙩-𝙈𝘿】⏤͟͟͞͞𖤓", "𖤓⏤͟͟͞͞【𝐌𝐮𝐥𝐭𝐢𝐯𝐞𝐫𝐬𝐨 𝐂𝐚𝐫𝐭𝐨𝐨𝐧】⏤͟͟͞͞𖤓 "]
 global.channelRD = await getRandomChannel()
 
