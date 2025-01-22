@@ -11,7 +11,7 @@ let handler = async (m, { conn, args }) => {
   let coins = user.coin || 0;
   let role = user.role || '';
 
-  let perfil = await conn.profilePictureUrl(userId, 'image').catch(_ => 'https://qu.ax/POrxy.jpg');
+  let perfil = await conn.profilePictureUrl(userId, 'image').catch(_ => 'https://qu.ax/qhGKN.jpg');
 
   let txt = `
 һ᥆ᥣᥲ! s᥆ᥡ *${botname}*
