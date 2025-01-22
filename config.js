@@ -86,14 +86,14 @@ global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp4 = 'https://chat.whatsapp.com/Ecz881bBgqPIWjDOaKkp7E'
-global.gp1 = 'https://chat.whatsapp.com/DouO0ZzbGyC3yqbeqpbVIp' 
-global.gp2 = 'https://chat.whatsapp.com/Ecz881bBgqPIWjDOaKkp7E'
-global.comunidad1 = 'https://chat.whatsapp.com/EwrwcGvpLf1BnMhP3B4axD'
-global.channel = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
-global.channel2 = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
-global.md = 'https://github.com/leoneloficial/-starting-8-estrellas-'
-global.correo = 'thekingdestroy507@gmail.com'
+global.gp4 = 'https://chat.whatsapp.com/J1ImnztNEjA9e1mzwTzrLY'
+global.gp1 = 'https://chat.whatsapp.com/LgikJvYe5h52WR90PVNi8b' 
+global.gp2 = 'https://chat.whatsapp.com/J1ImnztNEjA9e1mzwTzrLY'
+global.comunidad1 = 'https://chat.whatsapp.com/JG7nkbC39x39usNdfLVSaA'
+global.channel = 'https://whatsapp.com/channel/0029Vb2YQcW1t90dSKG8ac2U'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb2YQcW1t90dSKG8ac2U'
+global.md = 'https://github.com/Kevin22Mza/Mordecai-Bot-MD'
+global.correo = 'kevincordoba223322@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -103,8 +103,8 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.ch = {
-ch1: '120363343811229130@newsletter',
-ch2: '120363322713003916@newsletter',
+ch1: '120363323286489957@newsletter',
+ch2: '120363323286489957@newsletter',
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
