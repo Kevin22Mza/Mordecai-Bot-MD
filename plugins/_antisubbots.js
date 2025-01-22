@@ -17,7 +17,7 @@ export async function before(m, { participants, conn }) {
 
           if (isBotPresent) {
                 setTimeout(async () => {
-                    await conn.reply(m.chat, `🍬 En este grupo está el bot principal, el cual me saldré para no hacer spam.`, m)
+                    await conn.reply(m.chat, `🍬 𝘌𝘯 𝘌𝘴𝘵𝘦 𝘎𝘳𝘶𝘱𝘰 𝘌𝘴𝘵á 𝘌𝘭 𝘉𝘰𝘵 𝘗𝘳𝘪𝘯𝘤𝘪𝘱𝘢𝘭, 𝘦𝘭 𝘤𝘶𝘢𝘭 𝘮𝘦 𝘴𝘢𝘭𝘥𝘳é 𝘱𝘢𝘳𝘢 𝘯𝘰 𝘩𝘢𝘤𝘦𝘳 𝘚𝘱𝘢𝘮.`, m)
                     await this.groupLeave(m.chat)
                 }, 5000)// 5 segundos
             }
