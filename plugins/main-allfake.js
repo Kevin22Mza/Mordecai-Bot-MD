@@ -36,7 +36,7 @@ global.namechannel2 = '𖤓⏤͟͟͞͞【𝙈𝙤𝙧𝙙𝙚𝙘𝙖𝙞-𝘽�
 global.namegrupo = '.•♫•♬• 𝕸𝖔𝖗𝖉𝖊𝖈𝖆𝖎-𝕭𝖔𝖙-𝕸𝕯•♬•♫•.'
 global.namecomu = '✿:･✧ 𝐌𝐮𝐥𝐭𝐢𝐯𝐞𝐫𝐬𝐨 𝐂𝐚𝐫𝐭𝐨𝐨𝐧✧･:✿'
 global.listo = '🍬 *Aquí Tienes ฅ^•ﻌ•^ฅ*'
-global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
+global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://qu.ax/qhGKN.jpg')
 
 //Ids channel
 global.idchannel = '120363372222484415@newsletter'
