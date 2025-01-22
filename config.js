@@ -34,7 +34,7 @@ global.baileys = 'V 6.7.9'
 global.languaje = 'Español'
 global.vs = '2.1.5'
 global.vsJB = '5.0'
-global.nameqr = 'Yuki Suou - Bot'
+global.nameqr = '𝙈𝙤𝙧𝙙𝙚𝙘𝙖𝙞-𝘽𝙤𝙩-𝙈𝘿'
 global.namebot = '𝕸𝖔𝖗𝖉𝖊𝖈𝖆𝖎-𝕭𝖔𝖙-𝕸𝕯'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
@@ -48,11 +48,11 @@ global.packsticker2 = `━━━━━━━━♾\𖤓⏤͟͟͞͞𝕸𝖔𝖗�
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = `⪛桜沢桜𓆩†𓆪みさ⪜`
-global.botname = '𖤓⏤͟͟͞͞вσт мαƒια 𓆩✝︎𓆪 ʝαρσηєѕα⏤͟͟͞͞𖤓'
-global.wm = '𖤓⏤͟͟͞͞вσт мαƒια 𓆩✝︎𓆪 ʝαρσηєѕα⏤͟͟͞͞𖤓'
-global.author = 'Made By ৎ୭࠭͢𓆩𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑𓆪͟͞ '
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ৎ୭࠭͢𓆩𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑𓆪͟͞  '
-global.textbot = 'Bσƚ - ʝαρσɳҽ́ʂ • Powered By ৎ୭࠭͢𓆩𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑𓆪͟͞ '
+global.botname = '𖤓⏤͟͟͞͞𝕸𝖔𝖗𝖉𝖊𝖈𝖆𝖎-𝕭𝖔𝖙-𝕸𝕯⏤͟͟͞͞𖤓'
+global.wm = '𖤓⏤͟͟͞͞𝕸𝖔𝖗𝖉𝖊𝖈𝖆𝖎-𝕭𝖔𝖙-𝕸𝕯⏤͟͟͞͞𖤓'
+global.author = 'Made By ৎ୭࠭͢𓆩Ҡҽѵìղلʂ𓆪͟͞ '
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ৎ୭࠭͢𓆩Ҡҽѵìղلʂ𓆪͟͞  '
+global.textbot = '𝕸𝖔𝖗𝖉𝖊𝖈𝖆𝖎 𝕭𝖔𝖙 • Powered By ৎ୭࠭͢𓆩Ҡҽѵìղلʂ𓆪͟͞ '
 
 global.moneda = 'Yenes'
 global.welcom1 = 'Edita Con #setwelcome'
