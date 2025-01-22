@@ -17,7 +17,7 @@ let grupos = `*Hola!, te invito a unirte a los grupos oficiales del Bot para con
 - ${namechannel}
 *❀* ${channel}
 
-- ✧┊┋◟𝐘𝐮𝐤𝐢 𝐒𝐮𝐨𝐮 𝐓𝐞𝐬𝐭◞┊┋✧
+- ✧┊┋◟𝙈𝙤𝙧𝙙𝙚𝙘𝙖𝙞 𝘽𝙤𝙩 𝙏𝙚𝙨𝙩◞┊┋✧
 *❀* ${channel2}
 
 > ${dev}`
